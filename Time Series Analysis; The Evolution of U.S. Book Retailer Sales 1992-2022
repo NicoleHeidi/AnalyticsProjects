@@ -1,1 +1,4 @@
+# Graduate-Course-Projects
 ### This project investigated how emerging bookstore alternatives (e-books, digital comics) impacted U.S. book retailer sales over 2 decades. It involved analyzed fluctuating sales caused by rising literacy rates, COVID, and industry trends such as e-reading and thrifting books. To do so, it required conducting seasonality analysis and testing 9 models including multiple decomposition, smoothing, and regression models. As a result, it was determined that linear regression model with SARIMA on residuals generated the model with the best fit after comparing accuracy measures.
+
+
