@@ -4,3 +4,8 @@
 ### This project examined how increasing product and offer categories on Sephora’s mobile-app loyalty program can influence online traffic. An experimental study was designed in Qualtrics on how a “last chance” category on Sephora’s offers page can enhance CTR and offer redemption rates, and a moderator variable of category descriptions. A/B testing was conducted and survey analysis was performed via SPSS to evaluate manipulation checks, ANOVA, and post-hoc analysis. 
 
 ### It was determined that user views on the offers page were not affected by category descriptions. They were affected by the “last chance” category, which impacted the the construct dependent measure of engagement, which in turn impacted the construct dependent measure of loyalty.
+
+# Graduate-Course-Projects
+### Found in this repository are the business analytics graduate course projects that I have worked on. 
+
+### These are projects that involved research, analysis,  modeling, and simulation across various platforms; SAP, R, Qualtrics, SPSS, Advanced Excel, and SQL. They required various analyses; qualitative analysis with exploratory data analysis, process modeling, and database modeling; quantitative analysis with statistical analysis and time series analysis; and experimental study design with survey analysis and A/B testing. 
