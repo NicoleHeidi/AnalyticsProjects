@@ -1,16 +1,17 @@
-**LIT Boutique BPMN Process: In-Store Customer Transactions**
+*LIT Boutique BPMN Process: In-Store Customer Transactions**
 
-**GR602: Group 1 Members + Contributions**
+***GR602: Group 1 Members + Contributions***
 
-**AJ Alden - process description, simulation creation, excel data analysis**
+***AJ Alden - process description, simulation creation, excel data analysis***
 
-**Tajae Edwards - key problems, general analysis, conclusions**
+***Tajae Edwards - key problems, general analysis, conclusions***
 
-**Nadim Fayssal - process modeling, excel data analysis, solution recommendations**
+**Nadim Fayssal - process modeling, excel data analysis, solution recommendations***
 
-**Nicole Romangsuriat - company contact, data collector, main writer, editor, quantitative/qualitative analysis**
+***Nicole Romangsuriat - company contact, data collector, main writer, editor, quantitative/qualitative analysis***
 
-**Nevedtha Venkataraman - proposal discussion, features to evaluate, model - good & bad**
+***Nevedtha Venkataraman - proposal discussion, features to evaluate, model - good & bad***
+
 
 **_Background_**
 
@@ -23,6 +24,7 @@ LIT Boutique is a medium to high-end boutique retailer. Its position is in betwe
 _Link to Process_
 
 In lieu of product manufacturing, LIT can specialize in its sales strategy and provide differentiation with its styling services, in which stylists (also called sales associates) help customers purchase event ensembles or curate new wardrobes. Stylists form close relations with clients, learning personal information regarding their style, brand and material preferences, and specific occasions in shopping visit purposes. With this unique service aspect, our group chose to examine in-store customer transactions. We wanted to explore how the physical stores style customers and process purchases, interested in how this additional service, its value proposition, impacts a common process within the retail industry. Our contacts are North End branch manager Ami and team member Nicole, both with 3 years of experience at LIT (Romangsuriat).
+
 
 **Process Description**
 
@@ -44,9 +46,11 @@ Various resources are required to fulfill this process, including the store empl
 
 The flow unit for this process is the daily number of transactions and revenue earned. Its supporting information structure is similar to the process inputs; information on customer styles, preferences, and past purchases. It has technology architecture with Shopify, LIT’s customer, sales, and inventory database, also acting as a point-of-sale system to process payments.
 
+
 **_Data Collection_**
 
 To collect the data required for our process analysis, Nicole met with Ami to discuss the process details and other metrics that would be inputted into the simulation. They met in the store during opening hours while Ami was on break. After much discussion and consulting other employees that were present at the store, Nicole and Ami determined the average percentages of the decision points and re-created the process in real-time to determine the approximate length of each process step. Data collection was done in this manner as LIT Boutique is a relatively small company that does not keep track of the aforementioned metrics. As Nicole and Ami both have 3 years of experience working in this company, this method was therefore the most reliable way of obtaining this information. The data collected can be found in the Appendix.
+
 
 **_Problem Identification_**
 
@@ -57,6 +61,7 @@ LIT Boutique faces pivotal process-related challenges that impact the store's pr
 _Proposal Improvement: Slow Retail Days & Impact to AS-IS Model_
 
 As aforementioned, we narrowed down the process to focus on slow retail days. Our initial proposal highlighted our interest in the company’s sales process because of the unique styling service. However this process has significant variety in terms of customer traffic and customer transactions, which presented a potential problem in furthering our project. To resolve this, we decided to focus on slow days for a less complex and more defined process and related data. It is also because the company’s current problem is the relatively small number of sales during these days. It has no issues with process efficiency during busy days, and we wanted to explore a relevant issue that the company faces. With the slow store traffic, employees must make better item recommendations to increase sales. This narrowed focus of slow days influenced certain steps in the AS-IS process. With the slow traffic, there is little overlap between the sales associates and the customers. Sales associates often work with five customers simultaneously during a busier day, however they can instead focus on one or two customers at a time. This creates a more streamlined process to model and analyze.
+
 
 **_Process Analysis_**
 
@@ -102,6 +107,7 @@ _Assumptions & Limitation in Analysis_
 
 Throughout this project, we made several assumptions and encountered limitations in our analysis, one of which includes the variability in process durations. In the sales process, there is a large range in the time between a customer walking into the store and walking out without a purchase. It can be as short as five minutes or as long as half an hour. We addressed this with a normal distribution in the simulation, however this might not be accurate in reality. Moreover, the numbers in the simulation are estimates. As aforementioned, LIT is a small company that does not invest heavily in analytics. It does not track real data with process durations and decision point percentages, and there is limited information regarding sales conversions. As such, our analysis is not 100% accurate and can be improved with more reliable data.
 
+
 **_Conclusion_**
 
 In a comprehensive exploration of LIT Boutique’s in-store operations, a unique boutique retailer providing styling services as a brand differentiator, critical insights surfaced regarding the challenges affecting its process of handling in-store customer transactions. A challenge revolved around slow retail days which impacts traffic and sales, reducing employee utilization and resource allocation effectiveness. The AS-IS model emphasized inefficiencies in customer engagement, necessitating strategic interventions for improvement. Our analysis delved into key areas including resource consumption, cycle time, waiting instances, and process outcomes, pinpointing crucial opportunities for enhancement. Despite the store's daily profitability exceeding $2000, low resource utilization and missed conversion opportunities highlighted operational ineffectiveness. The five customers that leave without purchases on a daily basis indicate a need for improved engagement and conversion. Thus, it is crucial to address these low points for optimization in aligning financial goals with operational efficiency.
@@ -109,6 +115,7 @@ In a comprehensive exploration of LIT Boutique’s in-store operations, a unique
 Our recommendations aim to address these identified challenges comprehensively, involving solutions relating to resource reallocation and influencing store traffic. Optimal employee utilization can be achieved by assigning tasks beyond direct customer interactions, such as inventory management and customer outreach. Collaborative events with neighboring stores can boost foot traffic and foster a sense of community, attracting new customers and retaining existing ones. Additionally, reimagining fitting rooms as extra display spaces can optimize store layout to enhance product visibility. Implementing these strategies could impact store performance during slow days, a common retail issue, to ultimately enhance engagement, drive sales, and create a more attractive shopping experience. Continuous assessment and feedback loops will be crucial in evaluating the efficacy of these changes for long-term success.
 
 Ultimately, our actionable solutions are rooted in process refinement and customer-centric approaches. These recommendations aim to overcome current obstacles, creating a more engaging and profitable retail environment. Maintaining a focus on the consumers is pivotal for sustained growth within the competitive retail landscape, ensuring that the store remains adaptable and appealing to its clientele.
+
 
 **_Appendix_**
 
