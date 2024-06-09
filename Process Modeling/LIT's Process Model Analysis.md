@@ -1,4 +1,4 @@
-*LIT Boutique BPMN Process: In-Store Customer Transactions**
+**LIT Boutique BPMN Process: In-Store Customer Transactions**
 
 ***GR602: Group 1 Members + Contributions***
 
